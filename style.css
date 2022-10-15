@@ -1,0 +1,52 @@
+body,
+html {
+    height: 100%;
+    width: 100%;
+    background: url(/img/background-white.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.buffer {
+    height: 6rem;
+}
+
+.title1 {
+    font-size: 3rem;
+}
+
+
+
+#find-out-btn {
+    background-color: #5F9DF7;
+    border: 2px solid #5F9DF7;
+    color: #FFF7E9;
+    padding: 1rem 1.5rem;
+    font-size: 1rem;
+    border-radius: 30px;
+}
+
+.btn {
+    font-weight: 800;
+
+}
+
+#find-out-btn:hover {
+    background-color: #FF731D;
+    border: 2px solid #FF731D;
+    border-width: 3px;
+}
+
+.font-fatface {
+    font-family: 'Abril Fatface', cursive;
+}
+
+.font-pacific {
+    font-family: 'Pacifico', cursive;
+}
+
+.font-marker {
+    font-family: 'Permanent Marker', cursive;
+}
